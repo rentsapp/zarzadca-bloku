@@ -1,0 +1,1 @@
+"""UI - pakiet interfejsu graficznego."""

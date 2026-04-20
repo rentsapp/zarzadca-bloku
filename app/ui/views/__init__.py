@@ -1,0 +1,1 @@
+"""Views - pakiet widoków."""

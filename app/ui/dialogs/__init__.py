@@ -1,0 +1,1 @@
+"""Dialogs - pakiet dialogów."""
